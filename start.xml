@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="check.xsl"?>
+<tutorials xmlns:xlink="http://www.w3.org/1999/xlink">
+<tutorial>
+<name>Sign up now for exciting content!</name>
+</tutorial>
+<tutorial>
+<name>Already have an account? Log in!</name>
+</tutorial>
+</tutorials>
